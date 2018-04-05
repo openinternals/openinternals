@@ -1,4 +1,22 @@
+# Hugo-defined variables
 baseURL = "http://openinternals.com/"
 languageCode = "en-us"
 title = "The Open Internals Podcast"
 theme = "hugo-theme-cactus-plus"
+
+# Enable Emoji emoticons support for page content; see emoji-cheat-sheet.com
+enableEmoji = true
+
+# the length of text to show in a .Summary
+summaryLength = 70
+
+# Pagination (3,6,9,12, ...)
+paginate =  6
+
+# Syntax Highlighting
+pygmentscodefences            = true
+pygmentsUseClasses            = true
+
+[params]
+author = "darshanime"
+enableTwitterCard = true
