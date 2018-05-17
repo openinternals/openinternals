@@ -7,6 +7,9 @@ theme = "hugo-theme-cactus-plus"
 # Enable Emoji emoticons support for page content; see emoji-cheat-sheet.com
 enableEmoji = true
 
+# google analytics
+googleAnalytics = "UA-58520192-2"
+
 # the length of text to show in a .Summary
 summaryLength = 70
 
