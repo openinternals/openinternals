@@ -26,3 +26,6 @@ enableTwitterCard = true
 
 enableDisqus = true
 disqusShortname = "openinternals"
+
+bio = "Podcast about the internals of popular open source packages"
+enableRSS = true
